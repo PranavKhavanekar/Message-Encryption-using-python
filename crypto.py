@@ -1,4 +1,4 @@
-import pycrypto
+from Crypto.Cipher import AES
 
 def encrypt():
     # Encryption function
