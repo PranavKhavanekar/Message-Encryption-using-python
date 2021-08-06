@@ -1,0 +1,6 @@
+{
+    "creds": ["aronbuzz10@gmail.com", "aaron@123"],
+    "key": "Aaron",
+    "init": ["Exchange Public Key", "Hello, \nThis is my Public Key --"],
+    "from": "aronbuzz10@gmail.com"
+}
